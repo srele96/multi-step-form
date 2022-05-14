@@ -1,5 +1,6 @@
 {
   "name": "multi-step-form",
+  "description": "Checkout-like form with multiple steps.",
   "version": "0.1.0",
   "private": true,
   "scripts": {
